@@ -1,0 +1,2 @@
+[2025-07-06 23:07:35,610] 28 root - INFO - Logger initialized and log file should be created.
+[2025-07-06 23:07:35,610] 7 root - INFO - This is a test log message to check the logger configuration.
